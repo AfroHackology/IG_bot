@@ -1,0 +1,18 @@
+1566869151457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TsmcCR3z2lmj"
+1566869152400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566869152401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566869152401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566869157341	Marionette	INFO	Listening on port 38555
+1566869157403	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 7860, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-S440dE/firefox-67.0.4+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 7860, Gecko_IOThread] WARNING: pipe error (93): Connection reset by peer: file /build/firefox-S440dE/firefox-67.0.4+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1566869239988	Marionette	INFO	Stopped listening on port 38555
+1566869991755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.Rb4mgd74IYOT"
+1566869992240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1566869992240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1566869992240	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1566869995549	Marionette	INFO	Listening on port 38205
+1566869995568	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 8349, Gecko_IOThread] WARNING: pipe error (97): Connection reset by peer: file /build/firefox-S440dE/firefox-67.0.4+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+[Parent 8349, Gecko_IOThread] WARNING: pipe error (78): Connection reset by peer: file /build/firefox-S440dE/firefox-67.0.4+linuxmint1+tessa/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 357
+1566870036397	Marionette	INFO	Stopped listening on port 38205
